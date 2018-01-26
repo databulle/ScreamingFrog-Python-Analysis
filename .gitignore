@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+.python-version
+*.csv
+.DS_Store
