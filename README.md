@@ -21,3 +21,7 @@ Then simply launch Jupyter Notebook:
 
 Access your notebooks on <http://localhost:8888>.  
 Enjoy !
+
+## Contributing
+
+If you wish to contribute to this repository or to report an issue, please use [GitLab](https://gitlab.com/databulle/screamingfrog-python-analysis).  
